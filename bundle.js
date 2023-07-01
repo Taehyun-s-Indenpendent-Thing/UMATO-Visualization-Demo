@@ -8872,7 +8872,7 @@ function randomCircleData(numPoints) {
           'Ellipsoidal Gaussian Cloud': { nNeighbors: 35, minDist: 1, hub_num: 40 },
           'Trefoil Knot': { nNeighbors: 10, minDist: 0, hub_num: 90 },
           'Linked Rings': { nNeighbors: 15, minDist: 0, hub_num: 80 },
-          'Unlinked Rings': { nNeighbors: 70, minDist: 0, hub_num: 70 },
+          'Unlinked Rings': { nNeighbors: 55, minDist: 0, hub_num: 70 },
           'Orthogonal Steps': { nNeighbors: 55, minDist: 0, hub_num: 100 },
           'Random Walk': { nNeighbors: 55, minDist: 0, hub_num: 100 },
           'Random Jump': { nNeighbors: 55, minDist: 0, hub_num: 100 },
